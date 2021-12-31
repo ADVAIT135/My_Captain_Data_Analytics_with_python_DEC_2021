@@ -1,0 +1,25 @@
+Start time,End time,Productivity Level,Activity done
+00:00,01:00,4,Programming Tutorials
+01:00,02:00,5,Programming 
+02:00,03:00,1,"Youtube, Amazon, etc."
+03:00,04:00,0,Sleep
+04:00,05:00,0,Sleep
+05:00,06:00,0,Sleep
+06:00,07:00,0,Sleep
+07:00,08:00,0,Sleep
+08:00,09:00,0,Sleep
+09:00,10:00,2,"Bath, Breakfeast"
+10:00,11:00,3,Studies
+11:00,12:00,3,Studies
+12:00,13:00,3,Studies
+13:00,14:00,2,Lunch
+14:00,15:00,3,Studies
+15:00,16:00,0,Sleep
+16:00,17:00,0,Sleep
+17:00,18:00,3,Studies
+18:00,19:00,3,Studies
+19:00,20:00,5,Programming
+20:00,21:00,5,Programming
+21:00,22:00,2,Dinner
+22:00,23:00,1,"Youtube, Amazon, etc."
+23:00,00:00,1,"Youtube, Amazon, etc."
